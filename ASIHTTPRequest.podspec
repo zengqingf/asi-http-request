@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ASIHTTPRequest"
-  s.version      = "1.8.4"
+  s.version      = "1.8.2"
   s.summary      = "修改ASI"
   s.homepage     = "https://github.com/zengqingf/asi-http-request"
   s.license      = "MIT"
